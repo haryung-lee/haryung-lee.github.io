@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: http://halang.com # the base hostname & protocol for your site, e.g. http://example.com
+url: {{ site.url }} # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Hello, I'm halang.
 description: "Don't repeat yourself!"
