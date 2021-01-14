@@ -21,16 +21,16 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: http://halang.com # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Hello, I'm halang.
 description: "Don't repeat yourself!"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
+  name: halang
   job_title:
   location:
-  email:
+  email: lhr4884@naver.com
   social_links:
     - name: facebook
       url:
