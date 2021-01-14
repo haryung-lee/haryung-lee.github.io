@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "[Swfit] functions"
+title: "[Swift] functions"
 
 description: "swift 문법 - functions"
 
@@ -13,7 +13,7 @@ redirect_from:
   - /2021/01/14/
 ---
 
-# [Swfit] functions
+# [Swift] functions
 
 > 기본 문법
 >
