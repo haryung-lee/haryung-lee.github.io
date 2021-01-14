@@ -1,14 +1,14 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-simple-texture"
+  spec.name          = "run, halang!"
   spec.version       = "0.5.0"
-  spec.authors       = ["Yi Zeng"]
-  spec.email         = ["developer@yizeng.me"]
+  spec.authors       = ["halang"]
+  spec.email         = ["lhr4884@naver.com"]
 
-  spec.summary       = %q{A gem-based responsive simple texture styled Jekyll theme.}
-  spec.homepage      = "https://github.com/yizeng/jekyll-theme-simple-texture"
-  spec.license       = "MIT"
+  spec.summary       = %q{run, halang!}
+  spec.homepage      = "https://github.com/haryung-lee"
+  spec.license       = "IDK"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
 
