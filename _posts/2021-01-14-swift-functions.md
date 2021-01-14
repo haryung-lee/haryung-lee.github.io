@@ -77,7 +77,7 @@ redirect_from:
   }
   ```
 
-  *함수의 return 값이 없다면 '->' (return arrow)와 returnType 생략 가능*
+  > *함수의 return 값이 없다면 '->' (return arrow)와 returnType 생략 가능*
 
   
 
@@ -88,9 +88,9 @@ redirect_from:
   add(a: 3, b: 5)
   ```
 
-  *여기서 3과 5는 actual parameter 혹은 argument(인자) 라고 부름*
-
-  *3과 5는 함수 선언에 있는 formal parameter인 a와 b에 각각 복사되어 계산됨*
+  > *여기서 3과 5는 actual parameter 혹은 argument(인자) 라고 부름*
+  >
+  > *3과 5는 함수 선언에 있는 formal parameter인 a와 b에 각각 복사되어 계산됨*
 
   
 
@@ -130,4 +130,3 @@ redirect_from:
 
 
 
-- 
